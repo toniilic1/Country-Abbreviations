@@ -1,4 +1,4 @@
-### Country-Abbreviations
+### Country Abbreviations
 
 [![File Number](https://img.shields.io/github/directory-file-count/toniilic1/Country-Abbreviations "File Number")](https://github.com/toniilic1/Country-Abbreviations)
 [![Size](https://img.shields.io/github/repo-size/toniilic1/Country-Abbreviations)](https://github.com/toniilic1/Country-Abbreviations)
