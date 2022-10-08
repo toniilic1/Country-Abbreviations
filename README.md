@@ -9,9 +9,9 @@
 
 Upon establishing communication with the ```SOAP``` server, client may request one of 4 abbreviations; "be, az, fr and de". And in return; corresponding country name is printed in the console.
 
-The XML structure is created on the server side which contains a dictonairy of four countries and their abbreviations as keys. XML is created using xml.etree.ElementTree module. Then on the client side; using ```zeep``` we connect to the server to read the XML document and generate a response; return a country name.
+The XML structure is created on the server side which contains a dictonairy of four countries and their abbreviations as keys. XML is created using ```xml.etree.ElementTree module```. Then on the client side; using ```zeep``` we connect to the server to read the XML document and generate a response; return a country name.
 
-Point of this project is to give an example of using an API, specifically ElementTree XML, and also inspect a WSDL document with zeep and to return a response.
+Point of this project is to give an example of using an ```API```, specifically ElementTree XML, and also inspect a WSDL document with zeep and to return a response.
 
 ## Installation
 1. Clone the project:
